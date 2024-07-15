@@ -8,4 +8,4 @@ streamlit
 Pillow
 python-dotenv 
 google-generativeai  
-opencv
+opencv-python
