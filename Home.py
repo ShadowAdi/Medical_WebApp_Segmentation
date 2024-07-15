@@ -14,6 +14,7 @@ st.subheader("It is a Medical Image Segmentation Project")
 st.text("This Is A Multipurpose project create to solve many medical related task for you.")
 st.markdown("All the code can be found on my [Github](https://github.com/ShadowAdi/Medical_WebApp_Segmentation).")
 st.markdown("You Can Find The Notebook Files in notebooks [folder](https://github.com/ShadowAdi/Medical_WebApp_Segmentation/tree/master/notebooks)")
+st.markdown("You Can Also Find The notebooks in Kaggle [Notebook](https://www.kaggle.com/shadowadi78)")
 st.divider()
 
 st.subheader("Chest Segmentation")
