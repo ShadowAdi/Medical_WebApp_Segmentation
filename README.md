@@ -76,3 +76,32 @@ UNET is a powerful model that includes two main parts: a downsampling path and a
 ## MediBot
 
 I created a Medical Bot for you, so you can chat with it to get information related to healthcare.
+
+---
+
+## How to Set Up and Use the Project
+
+### Prerequisites
+
+1. **Python**: Ensure you have Python 3.6 or higher installed on your system.
+
+2. **Git**: Make sure Git is installed to clone the repository.
+
+### Setting Up the Environment
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ShadowAdi/Medical_WebApp_Segmentation.git
+   cd Medical_WebApp_Segmentation
+2. **Create A Virtual Enviroment**
+   python -m venv venv
+3. **Activate the Virtual Environment:**
+    * On Windows:
+    ```bash
+      venv\Scripts\activate
+
+4. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+
