@@ -5,7 +5,7 @@ seaborn
 pandas 
 numpy
 streamlit
-Pillow
+PIL
 python-dotenv 
 google-generativeai  
-opencv-python
+cv2
